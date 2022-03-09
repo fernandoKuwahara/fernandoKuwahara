@@ -1,43 +1,72 @@
-## Eae, Beleza? Eu Sou o Fernando ✌ 
+# Eae, Beleza? Eu Sou o Fernando ✌ 
 
-### Possuo Conhecimento Em:
+## Possuo Conhecimentos Em:
 
-* <div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
+<table align="center">
+    <tr>
+      <td> <h2> LINGUAGENS: </h2> </td>
+      <td> <h2> BANCO DE DADOS: </h2> </td>
+    </tr>
+    <tr>
+        <td> 
+          <h2> 
+            <div style="display: inline_block">
+              <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+              <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+              <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+              <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </div> 
+          </h2> 
+      </td>
+        <td> 
+          <h2> 
+            <div style="display: inline_block">
+              <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+            </div> 
+          </h2> 
+      </td>
+    </tr>
+</table>
 
-##
+## Estudando Atualmente:<br>
 
-### Estudando Atualmente:<br>
+<table align="center">
+    <tr>
+      <td> <h2> LINGUAGEM: </h2> </td>
+      <td> <h2> BANCO DE DADOS: </h2> </td>
+      <td> <h2> GAME ENGINE: </h2> </td>
+    </tr>
+    <tr>
+        <td> 
+          <h2> 
+            <div style="display: inline_block">
+              <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+            </div> 
+          </h2> 
+      </td>
+        <td> 
+          <h2> 
+            <div style="display: inline_block">
+              <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+            </div> 
+          </h2> 
+      </td>
+        <td> 
+          <h2> 
+            <div style="display: inline_block">
+              <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+            </div> 
+          </h2> 
+      </td>
+    </tr>
+</table>
 
-### Linguagem:
-* <div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
-### Banco de Dados:
-* <div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
-
-### Engine:
-* <div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-</div>
-
-##
-
-### Meu GitHub:
-<div><br>
+# Meu GitHub:
+<div align="center"><br>
   <a href="https://github.com/fernandoKuwahara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoKuwahara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoKuwahara&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-##
   
 ### Formas de Contato:
   
