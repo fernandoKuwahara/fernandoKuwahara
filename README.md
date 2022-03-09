@@ -12,8 +12,10 @@
 ##
 
 ### Estudando Atualmente:<br>
-### Linguagens:
-* <div style="display: inline_block">
+
+<div>
+### Linguagem:
+  * <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
@@ -25,6 +27,7 @@
 ### Engine:
 * <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+</div>
 </div>
 
 ##
