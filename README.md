@@ -12,9 +12,14 @@
           <h2> 
             <div style="display: inline_block">
               <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+              <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+              <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/php/php-plain.svg">
+              <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+              <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/spring/spring-original-wordmark.svg">
               <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
               <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-              <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+              <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+              <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/jquery/jquery-plain-wordmark.svg">
             </div> 
           </h2> 
       </td>
@@ -34,27 +39,20 @@
     <tr>
       <td> <h2> LINGUAGEM: </h2> </td>
       <td> <h2> BANCO DE DADOS: </h2> </td>
-      <td> <h2> GAME ENGINE: </h2> </td>
     </tr>
     <tr>
         <td> 
           <h2> 
             <div style="display: inline_block">
-              <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+                <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/nodejs/nodejs-original.svg">
+                <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/react/react-original.svg">
             </div> 
           </h2> 
       </td>
         <td> 
           <h2> 
             <div style="display: inline_block">
-              <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-            </div> 
-          </h2> 
-      </td>
-        <td> 
-          <h2> 
-            <div style="display: inline_block">
-              <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+              <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
             </div> 
           </h2> 
       </td>
