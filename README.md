@@ -1,4 +1,4 @@
-# Eae, Beleza? Eu Sou o Fernando ✌ 
+# Eae, Beleza? me chamo Fernando✌ 
 
 ## Possuo Conhecimentos Em:
 
